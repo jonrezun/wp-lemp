@@ -1,0 +1,11 @@
+@import "reset.css";
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 40px);
+
+  main {
+      flex-grow: 1;
+  }
+}

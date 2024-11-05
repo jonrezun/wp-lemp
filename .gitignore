@@ -1,0 +1,7 @@
+.DS_Store
+/.srv/*
+!./.srv/custom.ini
+!./.srv/htaccess-example
+/data
+/theme/node_modules
+/theme/dist/*.map
